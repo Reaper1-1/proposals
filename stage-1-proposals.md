@@ -113,6 +113,7 @@ Proposals follow [this process document](https://tc39.es/process-document/).
 | [export all from][export-all-from]                                                           | Guy Bedford                                            | Nicolò Ribaudo                                        | <sub>&nbsp;-[2026&#8209;05][export-all-from-notes-2026-05]</sub> |
 | [Comparisons][comparisons]                                                                   | Jacob Smith                                            | Jacob Smith                                           | <sub>&nbsp;-[2026&#8209;05][comparisons-notes-2026-05]<br />&nbsp;-[2025&#8209;11][comparisons-notes-2025-11]<br />&nbsp;-[2025&#8209;05][comparisons-notes-2025-05]</sub> |
 | [Bigint from exponential][bigint-exp]                                                        | Richard Gibson                                         | Richard Gibson                                        | <sub>&nbsp;-2026&8209;07</sub> |
+| [Map get and delete][map-get-delete]                                                         | Devin Rousso                                           | Devin Rousso                                          | <sub>&nbsp;-2026&8209;07</sub> |
 
 See also the [active proposals](README.md), [stage 0 proposals](stage-0-proposals.md), [finished proposals](finished-proposals.md), and [inactive proposals](inactive-proposals.md) documents.
 
@@ -425,3 +426,4 @@ See also the [active proposals](README.md), [stage 0 proposals](stage-0-proposal
 [comparisons-notes-2025-05]: https://github.com/tc39/notes/blob/HEAD/meetings/2025-05/may-30.md#comparisons-né-assertions-for-stage-1
 [comparisons-notes-2026-05]: https://github.com/tc39/notes/blob/HEAD/meetings/2026-05/may-21.md#comparisons-for-stage-1
 [bigint-exp]: https://github.com/tc39/proposal-bigint-from-exponential
+[map-get-delete]: https://github.com/tc39/proposal-Map-getAndDelete
