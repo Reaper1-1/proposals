@@ -75,6 +75,7 @@ Stage 2 indicates that the committee expects these features to be developed and 
 | [Curtailing the power of "Thenables"][thenables]                               | Matthew Gaudet                                        | Matthew Gaudet                                                                    | Justin Ridgewell<br />Jordan Harband       | <sub>&nbsp;-[2026&#8209;05][thenables-notes-2026-05]<br />&nbsp;-[2026&#8209;03][thenables-notes-2026-03]<br />&nbsp;-[2025&#8209;07][thenables-notes-2025-07]<br />&nbsp;-[2025&#8209;02][thenables-notes]</sub> |
 | [Amount][amount]                                                               | Ben Allen                                             | Ben Allen                                                                         | Waldemar Horwat<br />Jordan Harband        | <sub>&nbsp;-[2026&#8209;05][amount-notes-2026-05]<br />&nbsp;-[2026&#8209;03][amount-notes-2026-03]<br />&nbsp;-[2025&#8209;11][amount-notes-2025-11]<br />&nbsp;-[2025&#8209;09][amount-notes]<br />&nbsp;-[2025&#8209;09][amount-notes-2025-09]</sub> |
 | [Error code property][error-code]                                              | James Snell                                           | James Snell                                                                       | Jordan Harband<br />Richard Gibson         | <sub>&nbsp;-[2026&#8209;03][error-code-notes-1]<br />&nbsp;-2026&#8209;07</sub> |
+| [Fused Multiply-Add][math-fma]                                                 | Waldemar Horwat                                       | Waldemar Horwat                                                                   | Jordan Harband<br />Michael Ficarra        | <sub>&nbsp;-2026&#8209;07</sub> |
 
 The test262 feature flag links to a code search of tests using that feature flag, which may constitute complete or partial coverage.
 The :question: means there is no feature flag for tests yet.
@@ -432,3 +433,4 @@ Note that as part of the onboarding process your repository name may be normaliz
 [amount-notes-2026-05]: https://github.com/tc39/notes/blob/HEAD/meetings/2026-05/may-20.md#amount-for-stage-2
 [error-code]: https://github.com/tc39/proposal-error-code-property
 [error-code-notes-1]: https://github.com/tc39/notes/blob/afb2105b00b5ff2a4e85c84ca24f48fac2c8335c/meetings/2026-03/march-11.md?plain=1#L691
+[math-fma]: https://github.com/tc39/proposal-fma
