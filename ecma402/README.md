@@ -44,6 +44,7 @@ This list contains only stage 1 proposals and higher that have not yet been with
 | [Default Behaviours for some Intl APIs][intl-defaults]       | Eemeli Aro           | Eemeli Aro             | <sub>&nbsp;-[2026&#8209;05][intl-defaults-notes-2026-05]</sub> |
 | [Intl Sequence Units][intl-sequence]                         | Shane Carr           | Shane Carr             | <sub>&nbsp;-[2026&#8209;05][intl-sequence-notes-2026-05]</sub> |
 | [Intl Energy Units][intl-energy-units]                       | Johan Røed           | Nicolò Ribaudo, Shane Carr | <sub>&nbsp;-[2026&#8209;03][intl-energy-units-notes-2026-03]<br />&nbsp;-[2025&#8209;11][intl-energy-units-notes-2025-11]</sub> |
+| [Intl.DateTimeFormat Alignment With Other Standards][intl-datetimeformat-alignment] | Eemeli Aro | Eemeli Aro | <sub>&nbsp;-2026&#8209;07</sub> |
 
 ### Contributing new proposals
 
@@ -82,7 +83,7 @@ Note that as part of the onboarding process your repository name may be normaliz
 [messageresource-notes]: https://github.com/tc39/notes/blob/HEAD/meetings/2022-11/nov-29.md#intl-messageresource-for-stage-1
 [intl.zoneddatetimeformat]: https://github.com/FrankYFTang/intl-zoneddatetimeformat
 [zoneddatetimeformat-notes]: https://github.com/tc39/notes/blob/HEAD/meetings/2023-05/may-17.md#intlzoneddatetimeformat-for-stage-1
-[mo-money]: https://github.com/eemeli/proposal-intl-currency-display-choices
+[mo-money]: https://github.com/tc39/proposal-intl-currency-display-choices
 [mo-money-notes]: https://github.com/tc39/notes/blob/HEAD/meetings/2024-12/december-02.md#more-currency-display-choices
 [trailing-zero]: https://github.com/tc39/proposal-intl-keep-trailing-zeros
 [trailing-zero-notes]: https://github.com/tc39/notes/blob/HEAD/meetings/2025-05/may-28.md#keep-trailing-zeros-in-intlnumberformat-and-intlpluralrules-for-stage-1
@@ -103,3 +104,4 @@ Note that as part of the onboarding process your repository name may be normaliz
 [stable-formatting-notes-2026-05]: https://github.com/tc39/notes/blob/HEAD/meetings/2026-05/may-20.md#stable-formatting-for-stage-2
 [intl-defaults-notes-2026-05]: https://github.com/tc39/notes/blob/HEAD/meetings/2026-05/may-20.md#default-behaviours-for-some-intl-apis-for-stage-1
 [intl-sequence-notes-2026-05]: https://github.com/tc39/notes/blob/HEAD/meetings/2026-05/may-20.md#intl-sequence-units-for-stage-1-or-2
+[intl-datetimeformat-alignment]: https://github.com/tc39/proposal-intl-datetime-alignment
